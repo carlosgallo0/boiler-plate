@@ -2,17 +2,20 @@
 Created in @ [willianjusten](https://github.com/willianjusten)'s NextJS course
 
 
-- [x]  Typescript configs
-- [x]  .editorconfig
-- [x]  Eslint
-- [x]  Prettier
-- [x]  Husky
-- [x]  Jest
-- [x]  React Testing Library
-- [x] ⚗️ Styled Components
+- [x] 💬 Typescript configs
+- [x] 🐭 .editorconfig
+- [x] 📐 Eslint
+- [x] 🎨 Prettier
+- [x] 🐶 Husky
+- [x] 🃏 Jest
+- [x] ⚗️ React Testing Library
+- [x] 💅 Styled Components
 - [x] 🌎 global styles
 - [x] 🍃 managing PWAs
 - [ ] 🕷️ becoming Spider-Man
+
+A [link](https://www.udemy.com/course/aprenda-nextjs-na-pratica/) to the course :)
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
